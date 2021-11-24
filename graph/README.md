@@ -1,4 +1,4 @@
-## Graph from links ##
+# Graph from links
 A program that will create a graph or network from a series of links
 
 #Connected Graph
